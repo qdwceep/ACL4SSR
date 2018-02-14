@@ -1,3 +1,9 @@
+
+[bypass_all]
+### 默认直连 自己可以自定义
+
+
+[proxy_list]
 # 国外域名关键字
 (^|\.)\w*1e100\w*\.\w*$
 (^|\.)\w*appledaily\w*\.\w*$
