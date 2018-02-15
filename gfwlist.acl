@@ -18,3 +18,9 @@
 (^|\.)\w*telegram\w*\.\w*$
 (^|\.)\w*twitter\w*\.\w*$
 (^|\.)\w*whatsapp\w*\.\w*$
+
+(^|\.)gstatic\.com$
+(^|\.)ggpht\.com$
+(^|\.)gvt0\.com$
+(^|\.)gvt1\.com$
+(^|\.)gvt3\.com$
