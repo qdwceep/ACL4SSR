@@ -5,8 +5,6 @@
 
 [proxy_list]
 # 国外域名关键字
-(^|\.)\w*1e100\w*\.\w*$
-(^|\.)\w*appledaily\w*\.\w*$
 (^|\.)\w*blogspot\w*\.\w*$
 (^|\.)\w*dropbox\w*\.\w*$
 (^|\.)\w*facebook\w*\.\w*$
@@ -29,3 +27,4 @@
 (^|\.)wsj\.com$
 (^|\.)goo\.gl$
 (^|\.)mgstage\.com$
+(^|\.)ift\.tt$
