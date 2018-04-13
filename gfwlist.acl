@@ -17,11 +17,11 @@
 (^|\.)\w*twitter\w*\.\w*$
 (^|\.)\w*whatsapp\w*\.\w*$
 
-(^|\.)gstatic\.com$
-(^|\.)ggpht\.com$
-(^|\.)gvt0\.com$
-(^|\.)gvt1\.com$
-(^|\.)gvt3\.com$
+#(^|\.)gstatic\.com$
+#(^|\.)ggpht\.com$
+#(^|\.)gvt0\.com$
+#(^|\.)gvt1\.com$
+#(^|\.)gvt3\.com$
 (^|\.)playno1\.com$
 (^|\.)t\.co$
 (^|\.)wsj\.com$
@@ -30,8 +30,3 @@
 (^|\.)ift\.tt$
 
 
-[remote_dns]
-(^|\.)t66y\.com$
-(^|\.)apkpure\.com$
-(^|\.)fc2\.com$
-(^|\.)qingyangmovie\.be$
