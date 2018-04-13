@@ -28,3 +28,10 @@
 (^|\.)goo\.gl$
 (^|\.)mgstage\.com$
 (^|\.)ift\.tt$
+
+
+[remote_dns]
+(^|\.)t66y\.com$
+(^|\.)apkpure\.com$
+(^|\.)fc2\.com$
+(^|\.)qingyangmovie\.be$
