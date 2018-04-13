@@ -5,7 +5,6 @@
 [proxy_list]
 # 国外域名关键字
 (^|\.)\w*blogspot\w*\.\w*$
-(^|\.)\w*dropbox\w*\.\w*$
 (^|\.)\w*facebook\w*\.\w*$
 (^|\.)\w*fbcdn\w*\.\w*$
 (^|\.)\w*gmail\w*\.\w*$
@@ -17,10 +16,10 @@
 (^|\.)\w*whatsapp\w*\.\w*$
 
 (^|\.)gstatic\.com$
-(^|\.)ggpht\.com$
-(^|\.)gvt0\.com$
-(^|\.)gvt1\.com$
-(^|\.)gvt3\.com$
+#(^|\.)ggpht\.com$
+#(^|\.)gvt0\.com$
+#(^|\.)gvt1\.com$
+#(^|\.)gvt3\.com$
 (^|\.)playno1\.com$
 (^|\.)t\.co$
 (^|\.)wsj\.com$
