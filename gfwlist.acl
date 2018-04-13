@@ -10,14 +10,15 @@
 (^|\.)\w*facebook\w*\.\w*$
 (^|\.)\w*fbcdn\w*\.\w*$
 (^|\.)\w*gmail\w*\.\w*$
-(^|\.)\w*google\w*\.\w*$
+#(^|\.)\w*google\w*\.\w*$
 (^|\.)\w*instagram\w*\.\w*$
 (^|\.)\w*spotify\w*\.\w*$
 (^|\.)\w*telegram\w*\.\w*$
 (^|\.)\w*twitter\w*\.\w*$
 (^|\.)\w*whatsapp\w*\.\w*$
 
-#(^|\.)gstatic\.com$
+(^|\.)google\.com$
+(^|\.)gstatic\.com$
 #(^|\.)ggpht\.com$
 #(^|\.)gvt0\.com$
 #(^|\.)gvt1\.com$
